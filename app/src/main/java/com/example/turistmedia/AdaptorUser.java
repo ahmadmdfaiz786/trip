@@ -19,6 +19,14 @@ public class AdaptorUser extends RecyclerView.Adapter<AdaptorUser.MyHolder>{
         this.context = context;
         this.userList = userList;
     }
+     // atteesh kumar
+    //  lkjhgfd;
+
+
+
+
+
+
 
     List<ModelUser>userList;
 
